@@ -8,15 +8,15 @@ The goal:Identify high-risk customers early and support data-driven retention st
 📊 **Business Problem**
 Retail businesses lose revenue when customers stop purchasing.
 By predicting churn probability, companies can:
-Target at-risk customers
-Optimize marketing spend
+Target at-risk customers,
+Optimize marketing spend,
 Improve customer lifetime value (CLV)
 
 🧠 **ML Approach**
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Feature Encoding & Scaling
-Logistic Regression Model
+Data Cleaning & Preprocessing,
+Exploratory Data Analysis (EDA),
+Feature Encoding & Scaling,
+Logistic Regression Model,
 Model Evaluation
 
 🛠 **Tech Stack**:Python,Pandas,NumPy,Matplotlib / Seaborn,Scikit-learn,Jupyter Notebook
